@@ -3,7 +3,7 @@ x = 3 # Hey CPU, plz allocate memory for me, and call it x.
     # and if I ever mention x, please give me its value.
 
 # function call
-y = 4.5  # float
+y = 4.6  # float
 msg = "Hello" # the c language inroduced string of characters
 name = "Sam"
 old = True
