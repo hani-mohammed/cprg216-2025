@@ -90,3 +90,22 @@ if name =="SAM":
 # : (is a must after else)
 # indentation 
 # one or more statements ( is a a must if you use else)
+
+
+# if elif else
+
+# if (keyword, is a must)
+# boolean expression (is a must)
+# : (is a must)
+# indentation (must have)
+# one or more statements of any any type 
+# one or more of the following:
+    # elif (optional)
+    # conditon (manadatory if you have elif)
+    # : (manadatory if you have elif)
+    # indentation
+    # one or more statements
+# non indented else (Optional)
+# : (is a must after else)
+# indentation 
+# one or more statements ( is a a must if you use else)
